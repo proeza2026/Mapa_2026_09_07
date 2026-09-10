@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
-    <Schema id="Localidad_YPEJH__.schema">
+    <Schema id="Distrito_YPEJH__.schema">
       <SimpleField name="Cédula" type="float"/>
       <SimpleField name="cedula" type="string"/>
       <SimpleField name="N" type="float"/>
@@ -17,17 +17,17 @@
       <SimpleField name="Distrito" type="string"/>
       <SimpleField name="Localidad" type="string"/>
       <SimpleField name="Teléfono" type="string"/>
-      <SimpleField name="Vivienda_L" type="string"/>
-      <SimpleField name="Vivienda_1" type="string"/>
+      <SimpleField name="Vivienda_L" type="float"/>
+      <SimpleField name="Vivienda_1" type="float"/>
       <SimpleField name="Superficie" type="float"/>
       <SimpleField name="Situaci�" type="string"/>
       <SimpleField name="Plantado" type="string"/>
-      <SimpleField name="Parcela_La" type="string"/>
-      <SimpleField name="Parcela_Lo" type="string"/>
+      <SimpleField name="Parcela_La" type="float"/>
+      <SimpleField name="Parcela_Lo" type="float"/>
       <SimpleField name="Grupo Impl" type="string"/>
       <SimpleField name="Grupo de P" type="string"/>
-      <SimpleField name="Jornales" type="string"/>
-      <SimpleField name="Monto" type="string"/>
+      <SimpleField name="Jornales" type="float"/>
+      <SimpleField name="Monto" type="float"/>
       <SimpleField name="ETAPA FAO" type="string"/>
       <SimpleField name="Estado del" type="string"/>
       <SimpleField name="Adjudicado" type="string"/>
@@ -37,61 +37,60 @@
       <SimpleField name="% de prend" type="string"/>
       <SimpleField name="Estado FAO" type="string"/>
       <SimpleField name="Etapa de i" type="string"/>
-      <SimpleField name="Fecha visi" type="string"/>
       <SimpleField name="Cumple sup" type="string"/>
       <SimpleField name="Estado mon" type="string"/>
       <SimpleField name="Situaci�_1" type="string"/>
       <SimpleField name="Observaci�" type="string"/>
-      <SimpleField name="Dias trans" type="string"/>
+      <SimpleField name="Dias trans" type="float"/>
       <SimpleField name="Prioridad" type="string"/>
     </Schema>
-    <Document id="Localidad_YPEJH__">
-      <name>Localidad_YPEJHÚ</name>
-      <Placemark id="Localidad_YPEJH__.1">
+    <Document id="Distrito_YPEJH__">
+      <name>Distrito_YPEJHÚ</name>
+      <Placemark id="Distrito_YPEJH__.1">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">7399567.00000000000</SimpleData>
             <SimpleData name="cedula">7399567</SimpleData>
-            <SimpleData name="N">7399567</SimpleData>
-            <SimpleData name="Nombres y">132</SimpleData>
-            <SimpleData name="Sexo">MIRIAN MONTIEL VERA</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">132</SimpleData>
+            <SimpleData name="Nombres y">MIRIAN MONTIEL VERA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG Y MIRI</SimpleData>
-            <SimpleData name="Vivienda_L">0981407662</SimpleData>
-            <SimpleData name="Vivienda_1">-23.91669</SimpleData>
-            <SimpleData name="Superficie">-55.903203099999999</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.91595255</SimpleData>
-            <SimpleData name="Grupo Impl">-55.90314434</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG Y MIRI</SimpleData>
+            <SimpleData name="Teléfono">0981407662</SimpleData>
+            <SimpleData name="Vivienda_L">-23.916689999999999</SimpleData>
+            <SimpleData name="Vivienda_1">-55.903203099999999</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.915952550000000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.903144339999997</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/17</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">21.27133101852087</SimpleData>
+            <SimpleData name="Dias trans">21.271331018520868</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -100,51 +99,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.2">
+      <Placemark id="Distrito_YPEJH__.2">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">4046192.00000000000</SimpleData>
             <SimpleData name="cedula">4046192</SimpleData>
-            <SimpleData name="N">4046192</SimpleData>
-            <SimpleData name="Nombres y">131</SimpleData>
-            <SimpleData name="Sexo">CATALINO BENITEZ ROMERO</SimpleData>
-            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="N">131</SimpleData>
+            <SimpleData name="Nombres y">CATALINO BENITEZ ROMERO</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 1</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG YVY PAVE CAÑADA</SimpleData>
-            <SimpleData name="Vivienda_L">ND</SimpleData>
-            <SimpleData name="Vivienda_1">-23.9596471</SimpleData>
-            <SimpleData name="Superficie">-55.904808299999999</SimpleData>
-            <SimpleData name="Situaci�">0.8</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.95238292</SimpleData>
-            <SimpleData name="Grupo Impl">-55.9008689</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P14-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YVY PAVE CAÑADA</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.959647100000002</SimpleData>
+            <SimpleData name="Vivienda_1">-55.904808299999999</SimpleData>
+            <SimpleData name="Superficie">0.800000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.952382920000002</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.900868899999999</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P14-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-05-13</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/05/13</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">117.2622685185197</SimpleData>
+            <SimpleData name="Dias trans">117.262268518519718</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -153,51 +152,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.3">
+      <Placemark id="Distrito_YPEJH__.3">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">3927113.00000000000</SimpleData>
             <SimpleData name="cedula">3927113</SimpleData>
-            <SimpleData name="N">3927113</SimpleData>
-            <SimpleData name="Nombres y">124</SimpleData>
-            <SimpleData name="Sexo">AMBROSIO GARCIA GONZALEZ</SimpleData>
-            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="N">124</SimpleData>
+            <SimpleData name="Nombres y">AMBROSIO GARCIA GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Campesina</SimpleData>
-            <SimpleData name="Departamen">Modelo 4</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">KOE PORA</SimpleData>
-            <SimpleData name="Vivienda_L">0984773424</SimpleData>
-            <SimpleData name="Vivienda_1">-24.0221229</SimpleData>
-            <SimpleData name="Superficie">-55.846563500000002</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Polígono</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-24.01942059</SimpleData>
-            <SimpleData name="Grupo Impl">-55.84567267</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">KOE PORA</SimpleData>
+            <SimpleData name="Teléfono">0984773424</SimpleData>
+            <SimpleData name="Vivienda_L">-24.022122899999999</SimpleData>
+            <SimpleData name="Vivienda_1">-55.846563500000002</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Polígono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.019420589999999</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.845672669999999</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
-            <SimpleData name="% de prend">2026/03/19</SimpleData>
-            <SimpleData name="Estado FAO">50</SimpleData>
-            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-29</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
-            <SimpleData name="Situaci�_1">🟥NO CUMPLE🟥</SimpleData>
-            <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">Uza como pikete;Uza como pikete</SimpleData>
-            <SimpleData name="Prioridad">9.440216909722949</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">2026/03/19</SimpleData>
+            <SimpleData name="% de prend">50</SimpleData>
+            <SimpleData name="Estado FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/29</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">🟥NO CUMPLE🟥</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">Uza como pikete;Uza como pikete</SimpleData>
+            <SimpleData name="Dias trans">9.440216909722947</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -206,51 +205,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.4">
+      <Placemark id="Distrito_YPEJH__.4">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">8079189.00000000000</SimpleData>
             <SimpleData name="cedula">8079189</SimpleData>
-            <SimpleData name="N">8079189</SimpleData>
-            <SimpleData name="Nombres y">178</SimpleData>
-            <SimpleData name="Sexo">ZUNILDA ROJAS TORRES</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">178</SimpleData>
+            <SimpleData name="Nombres y">ZUNILDA ROJAS TORRES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 2</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG YVY KATU</SimpleData>
-            <SimpleData name="Vivienda_L">0981276839</SimpleData>
-            <SimpleData name="Vivienda_1">-23.974155</SimpleData>
-            <SimpleData name="Superficie">-55.863374999999998</SimpleData>
-            <SimpleData name="Situaci�">0.8</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.97344703</SimpleData>
-            <SimpleData name="Grupo Impl">-55.86343514</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YVY KATU</SimpleData>
+            <SimpleData name="Teléfono">0981276839</SimpleData>
+            <SimpleData name="Vivienda_L">-23.974155000000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.863374999999998</SimpleData>
+            <SimpleData name="Superficie">0.800000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.973447029999999</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.863435140000000</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
-            <SimpleData name="% de prend">2026/07/29</SimpleData>
-            <SimpleData name="Estado FAO">50</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear Reposicion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-09-05</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
-            <SimpleData name="Situaci�_1">🟥 NO CUMPLE 🟥</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">2026/07/29</SimpleData>
+            <SimpleData name="% de prend">50</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/09/05</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">🟥 NO CUMPLE 🟥</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">2.959710648152395</SimpleData>
+            <SimpleData name="Dias trans">2.959710648152395</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -259,51 +258,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.5">
+      <Placemark id="Distrito_YPEJH__.5">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">6757450.00000000000</SimpleData>
             <SimpleData name="cedula">6757450</SimpleData>
-            <SimpleData name="N">6757450</SimpleData>
-            <SimpleData name="Nombres y">382</SimpleData>
-            <SimpleData name="Sexo">REINALDO LOPEZ MARTINEZ</SimpleData>
-            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="N">382</SimpleData>
+            <SimpleData name="Nombres y">REINALDO LOPEZ MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
             <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">-</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG PARIRI</SimpleData>
-            <SimpleData name="Vivienda_L">1234567890</SimpleData>
-            <SimpleData name="Vivienda_1">-23.87857</SimpleData>
-            <SimpleData name="Superficie">-55.698050899999998</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Parametro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.87752733</SimpleData>
-            <SimpleData name="Grupo Impl">-55.69752936</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG PARIRI</SimpleData>
+            <SimpleData name="Teléfono">1234567890</SimpleData>
+            <SimpleData name="Vivienda_L">-23.878570000000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.698050899999998</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.877527329999999</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.697529359999997</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">Si</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">Si</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-24</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/24</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">14.475208333336923</SimpleData>
+            <SimpleData name="Dias trans">14.475208333336923</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -312,51 +311,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.6">
+      <Placemark id="Distrito_YPEJH__.6">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">6757505.00000000000</SimpleData>
             <SimpleData name="cedula">6757505</SimpleData>
-            <SimpleData name="N">6757505</SimpleData>
-            <SimpleData name="Nombres y">137</SimpleData>
-            <SimpleData name="Sexo">VIDALINA AQUINO RECALDE</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">137</SimpleData>
+            <SimpleData name="Nombres y">VIDALINA AQUINO RECALDE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 2</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG ITANARA-PARIRI</SimpleData>
-            <SimpleData name="Vivienda_L">0984185421</SimpleData>
-            <SimpleData name="Vivienda_1">-23.8671433</SimpleData>
-            <SimpleData name="Superficie">-55.694133299999997</SimpleData>
-            <SimpleData name="Situaci�">0.8</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.86625117</SimpleData>
-            <SimpleData name="Grupo Impl">-55.69416186</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">0984185421</SimpleData>
+            <SimpleData name="Vivienda_L">-23.867143299999999</SimpleData>
+            <SimpleData name="Vivienda_1">-55.694133299999997</SimpleData>
+            <SimpleData name="Superficie">0.800000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.866251170000002</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.694161860000001</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-31</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/31</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">7.432754629633564</SimpleData>
+            <SimpleData name="Dias trans">7.432754629633564</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -365,51 +364,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.7">
+      <Placemark id="Distrito_YPEJH__.7">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">8241299.00000000000</SimpleData>
             <SimpleData name="cedula">8241299</SimpleData>
-            <SimpleData name="N">8241299</SimpleData>
-            <SimpleData name="Nombres y">388</SimpleData>
-            <SimpleData name="Sexo">SANDRA MABEL FLORENCIANI</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">388</SimpleData>
+            <SimpleData name="Nombres y">SANDRA MABEL FLORENCIANI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 1</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG ARROYO SATI</SimpleData>
-            <SimpleData name="Vivienda_L">0982476374</SimpleData>
-            <SimpleData name="Vivienda_1">-23.9375933</SimpleData>
-            <SimpleData name="Superficie">-55.942050000000002</SimpleData>
-            <SimpleData name="Situaci�">0.8</SimpleData>
-            <SimpleData name="Plantado">Parametro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.93412279</SimpleData>
-            <SimpleData name="Grupo Impl">-55.94456487</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ARROYO SATI</SimpleData>
+            <SimpleData name="Teléfono">0982476374</SimpleData>
+            <SimpleData name="Vivienda_L">-23.937593300000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.942050000000002</SimpleData>
+            <SimpleData name="Superficie">0.800000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.934122790000000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.944564870000001</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-09-07</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/09/07</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">0.5640740740709589</SimpleData>
+            <SimpleData name="Dias trans">0.564074074070959</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -425,51 +424,51 @@
           </Point>
         </MultiGeometry>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.8">
+      <Placemark id="Distrito_YPEJH__.8">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">5454036.00000000000</SimpleData>
             <SimpleData name="cedula">5454036</SimpleData>
-            <SimpleData name="N">5454036</SimpleData>
-            <SimpleData name="Nombres y">127</SimpleData>
-            <SimpleData name="Sexo">CRISTINA LOPEZ ROA</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">127</SimpleData>
+            <SimpleData name="Nombres y">CRISTINA LOPEZ ROA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG PYPUCU</SimpleData>
-            <SimpleData name="Vivienda_L">ND</SimpleData>
-            <SimpleData name="Vivienda_1">-23.91436</SimpleData>
-            <SimpleData name="Superficie">-55.652428499999999</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.91523351</SimpleData>
-            <SimpleData name="Grupo Impl">-55.65261022</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG PYPUCU</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.914359999999999</SimpleData>
+            <SimpleData name="Vivienda_1">-55.652428499999999</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.915233510000000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.652610220000000</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-25</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/25</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
-            <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">Falta de interés o no ve el beneficio;Abandono desinteres</SimpleData>
-            <SimpleData name="Prioridad">13.300660185188462</SimpleData>
+            <SimpleData name="Observaci�">Falta de interés o no ve el beneficio;Abandono desinteres</SimpleData>
+            <SimpleData name="Dias trans">13.300660185188462</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -478,51 +477,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.9">
+      <Placemark id="Distrito_YPEJH__.9">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">8323662.00000000000</SimpleData>
             <SimpleData name="cedula">8323662</SimpleData>
-            <SimpleData name="N">8323662</SimpleData>
-            <SimpleData name="Nombres y">383</SimpleData>
-            <SimpleData name="Sexo">VILMA MEDINA BENITEZ</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">383</SimpleData>
+            <SimpleData name="Nombres y">VILMA MEDINA BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG PARIRI</SimpleData>
-            <SimpleData name="Vivienda_L">1234567890</SimpleData>
-            <SimpleData name="Vivienda_1">-23.879212</SimpleData>
-            <SimpleData name="Superficie">-55.698163399999999</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Parametro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.87975609</SimpleData>
-            <SimpleData name="Grupo Impl">-55.6976014</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG PARIRI</SimpleData>
+            <SimpleData name="Teléfono">1234567890</SimpleData>
+            <SimpleData name="Vivienda_L">-23.879211999999999</SimpleData>
+            <SimpleData name="Vivienda_1">-55.698163399999999</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.879756090000001</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.697601400000003</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">Si</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">Si</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-18</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/18</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">20.4296875</SimpleData>
+            <SimpleData name="Dias trans">20.429687500000000</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -538,51 +537,51 @@
           </Point>
         </MultiGeometry>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.10">
+      <Placemark id="Distrito_YPEJH__.10">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">6627209.00000000000</SimpleData>
             <SimpleData name="cedula">6627209</SimpleData>
-            <SimpleData name="N">6627209</SimpleData>
-            <SimpleData name="Nombres y">122</SimpleData>
-            <SimpleData name="Sexo">MONICA LUISA GONZALEZ</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">122</SimpleData>
+            <SimpleData name="Nombres y">MONICA LUISA GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Campesina</SimpleData>
-            <SimpleData name="Departamen">Modelo 4</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">KOE PORA</SimpleData>
-            <SimpleData name="Vivienda_L">0981151249</SimpleData>
-            <SimpleData name="Vivienda_1">-24.0230767</SimpleData>
-            <SimpleData name="Superficie">-55.844259999999998</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Polígono</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-24.02012427</SimpleData>
-            <SimpleData name="Grupo Impl">-55.84673519</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">KOE PORA</SimpleData>
+            <SimpleData name="Teléfono">0981151249</SimpleData>
+            <SimpleData name="Vivienda_L">-24.023076700000001</SimpleData>
+            <SimpleData name="Vivienda_1">-55.844259999999998</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Polígono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.020124270000000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.846735189999997</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
-            <SimpleData name="% de prend">2026/03/19</SimpleData>
-            <SimpleData name="Estado FAO">70</SimpleData>
-            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-29</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
-            <SimpleData name="Situaci�_1">🟥NO CUMPLE🟥</SimpleData>
-            <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">Uza su parcela como pikete;Uza como pikete</SimpleData>
-            <SimpleData name="Prioridad">9.440812233799079</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">2026/03/19</SimpleData>
+            <SimpleData name="% de prend">70</SimpleData>
+            <SimpleData name="Estado FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/29</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">🟥NO CUMPLE🟥</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">Uza su parcela como pikete;Uza como pikete</SimpleData>
+            <SimpleData name="Dias trans">9.440812233799077</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -591,51 +590,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.11">
+      <Placemark id="Distrito_YPEJH__.11">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">6743519.00000000000</SimpleData>
             <SimpleData name="cedula">6743519</SimpleData>
-            <SimpleData name="N">6743519</SimpleData>
-            <SimpleData name="Nombres y">134</SimpleData>
-            <SimpleData name="Sexo">ANASTACIO VERGARA PERALTA</SimpleData>
-            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="N">134</SimpleData>
+            <SimpleData name="Nombres y">ANASTACIO VERGARA PERALTA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG ITANARA-PARIRI</SimpleData>
-            <SimpleData name="Vivienda_L">ND</SimpleData>
-            <SimpleData name="Vivienda_1">-23.8384933</SimpleData>
-            <SimpleData name="Superficie">-55.686293399999997</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.8408245</SimpleData>
-            <SimpleData name="Grupo Impl">-55.68573074</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P9-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.838493300000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.686293399999997</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.840824500000000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.685730739999997</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P9-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-09-07</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/09/07</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">0.5667361111118225</SimpleData>
+            <SimpleData name="Dias trans">0.566736111111823</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -644,51 +643,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.12">
+      <Placemark id="Distrito_YPEJH__.12">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">7764806.00000000000</SimpleData>
             <SimpleData name="cedula">7764806</SimpleData>
-            <SimpleData name="N">7764806</SimpleData>
-            <SimpleData name="Nombres y">130</SimpleData>
-            <SimpleData name="Sexo">IRMA TORRES MENDOZA</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">130</SimpleData>
+            <SimpleData name="Nombres y">IRMA TORRES MENDOZA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG Y MIRI</SimpleData>
-            <SimpleData name="Vivienda_L">ND</SimpleData>
-            <SimpleData name="Vivienda_1">-23.9165751</SimpleData>
-            <SimpleData name="Superficie">-55.904867099999997</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.91568332</SimpleData>
-            <SimpleData name="Grupo Impl">-55.90503756</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG Y MIRI</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.916575099999999</SimpleData>
+            <SimpleData name="Vivienda_1">-55.904867099999997</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.915683319999999</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.905037559999997</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P17-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/17</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">21.27140046295972</SimpleData>
+            <SimpleData name="Dias trans">21.271400462959718</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -697,51 +696,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.13">
+      <Placemark id="Distrito_YPEJH__.13">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">5426598.00000000000</SimpleData>
             <SimpleData name="cedula">5426598</SimpleData>
-            <SimpleData name="N">5426598</SimpleData>
-            <SimpleData name="Nombres y">128</SimpleData>
-            <SimpleData name="Sexo">TEODORINA BRITEZ BARRETO</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">128</SimpleData>
+            <SimpleData name="Nombres y">TEODORINA BRITEZ BARRETO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 1</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG PYPUCU</SimpleData>
-            <SimpleData name="Vivienda_L">0985246984</SimpleData>
-            <SimpleData name="Vivienda_1">-23.899745</SimpleData>
-            <SimpleData name="Superficie">-55.646906700000002</SimpleData>
-            <SimpleData name="Situaci�">0.8</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.89837828</SimpleData>
-            <SimpleData name="Grupo Impl">-55.64648008</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG PYPUCU</SimpleData>
+            <SimpleData name="Teléfono">0985246984</SimpleData>
+            <SimpleData name="Vivienda_L">-23.899744999999999</SimpleData>
+            <SimpleData name="Vivienda_1">-55.646906700000002</SimpleData>
+            <SimpleData name="Superficie">0.800000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.898378279999999</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.646480080000003</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
-            <SimpleData name="% de prend">2026/07/28</SimpleData>
-            <SimpleData name="Estado FAO">70</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear Reposicion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-07-29</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
-            <SimpleData name="Situaci�_1">🟥 NO CUMPLE 🟥</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">2026/07/28</SimpleData>
+            <SimpleData name="% de prend">70</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/07/29</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">🟥 NO CUMPLE 🟥</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">40.21771990740672</SimpleData>
+            <SimpleData name="Dias trans">40.217719907406718</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -750,51 +749,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.14">
+      <Placemark id="Distrito_YPEJH__.14">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">4552788.00000000000</SimpleData>
             <SimpleData name="cedula">4552788</SimpleData>
-            <SimpleData name="N">4552788</SimpleData>
-            <SimpleData name="Nombres y">129</SimpleData>
-            <SimpleData name="Sexo">FLORENTINA ROA MARTINEZ</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">129</SimpleData>
+            <SimpleData name="Nombres y">FLORENTINA ROA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG PYPUCU</SimpleData>
-            <SimpleData name="Vivienda_L">ND</SimpleData>
-            <SimpleData name="Vivienda_1">-23.9121389</SimpleData>
-            <SimpleData name="Superficie">-55.644091699999997</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Parámetro</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.91260306</SimpleData>
-            <SimpleData name="Grupo Impl">-55.64381859</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG PYPUCU</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.912138899999999</SimpleData>
+            <SimpleData name="Vivienda_1">-55.644091699999997</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Parámetro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.912603059999999</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.643818590000002</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">-</SimpleData>
             <SimpleData name="% de prend">-</SimpleData>
-            <SimpleData name="Estado FAO">-</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-31</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/31</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">-</SimpleData>
             <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">7.426909722220444</SimpleData>
+            <SimpleData name="Dias trans">7.426909722220444</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -803,51 +802,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.15">
+      <Placemark id="Distrito_YPEJH__.15">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">6100504.00000000000</SimpleData>
             <SimpleData name="cedula">6100504</SimpleData>
-            <SimpleData name="N">6100504</SimpleData>
-            <SimpleData name="Nombres y">121</SimpleData>
-            <SimpleData name="Sexo">SONIA ELIZABETH RIVEROS DOMINGUEZ</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">121</SimpleData>
+            <SimpleData name="Nombres y">SONIA ELIZABETH RIVEROS DOMINGUEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Campesina</SimpleData>
-            <SimpleData name="Departamen">Modelo 4</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">ARA VERA</SimpleData>
-            <SimpleData name="Vivienda_L">0982169091</SimpleData>
-            <SimpleData name="Vivienda_1">-23.9247894</SimpleData>
-            <SimpleData name="Superficie">-55.989424300000003</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Polígono</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.96043029</SimpleData>
-            <SimpleData name="Grupo Impl">-55.94507587</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">ARA VERA</SimpleData>
+            <SimpleData name="Teléfono">0982169091</SimpleData>
+            <SimpleData name="Vivienda_L">-23.924789400000002</SimpleData>
+            <SimpleData name="Vivienda_1">-55.989424300000003</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Polígono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.960430290000001</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.945075869999997</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
-            <SimpleData name="% de prend">2026/04/07</SimpleData>
-            <SimpleData name="Estado FAO">90</SimpleData>
-            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-31</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
-            <SimpleData name="Situaci�_1">🟩 CUMPLE🟩</SimpleData>
-            <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">Migración o cambio de residencia;Vendió su lote y se mudo a otro barrio</SimpleData>
-            <SimpleData name="Prioridad">7.465375069441507</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">2026/04/07</SimpleData>
+            <SimpleData name="% de prend">90</SimpleData>
+            <SimpleData name="Estado FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/31</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">🟩 CUMPLE🟩</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">Migración o cambio de residencia;Vendió su lote y se mudo a otro barrio</SimpleData>
+            <SimpleData name="Dias trans">7.465375069441508</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -856,51 +855,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.16">
+      <Placemark id="Distrito_YPEJH__.16">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">4628213.00000000000</SimpleData>
             <SimpleData name="cedula">4628213</SimpleData>
-            <SimpleData name="N">4628213</SimpleData>
-            <SimpleData name="Nombres y">125</SimpleData>
-            <SimpleData name="Sexo">ANA DELIA PIRIS MONTIEL</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">125</SimpleData>
+            <SimpleData name="Nombres y">ANA DELIA PIRIS MONTIEL</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 4</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG TEKOHA YVY POTY</SimpleData>
-            <SimpleData name="Vivienda_L">0986431664</SimpleData>
-            <SimpleData name="Vivienda_1">-23.9123912</SimpleData>
-            <SimpleData name="Superficie">-55.916554499999997</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Polígono</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.91274012</SimpleData>
-            <SimpleData name="Grupo Impl">-55.91629182</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG TEKOHA YVY POTY</SimpleData>
+            <SimpleData name="Teléfono">0986431664</SimpleData>
+            <SimpleData name="Vivienda_L">-23.912391199999998</SimpleData>
+            <SimpleData name="Vivienda_1">-55.916554499999997</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Polígono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.912740119999999</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.916291819999998</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
-            <SimpleData name="% de prend">2026/04/09</SimpleData>
-            <SimpleData name="Estado FAO">60</SimpleData>
-            <SimpleData name="Etapa de i">Monitorear Reposicion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-31</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
-            <SimpleData name="Situaci�_1">🟥NO CUMPLE🟥</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">2026/04/09</SimpleData>
+            <SimpleData name="% de prend">60</SimpleData>
+            <SimpleData name="Estado FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/31</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">🟥NO CUMPLE🟥</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
             <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">-</SimpleData>
-            <SimpleData name="Prioridad">7.408900462956808</SimpleData>
+            <SimpleData name="Dias trans">7.408900462956808</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -909,51 +908,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.17">
+      <Placemark id="Distrito_YPEJH__.17">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">8419317.00000000000</SimpleData>
             <SimpleData name="cedula">8419317</SimpleData>
-            <SimpleData name="N">8419317</SimpleData>
-            <SimpleData name="Nombres y">138</SimpleData>
-            <SimpleData name="Sexo">MARIA GARCETE ESPINOLA</SimpleData>
-            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="N">138</SimpleData>
+            <SimpleData name="Nombres y">MARIA GARCETE ESPINOLA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG KABAYU PASO</SimpleData>
-            <SimpleData name="Vivienda_L">ND</SimpleData>
-            <SimpleData name="Vivienda_1">-24.0026557</SimpleData>
-            <SimpleData name="Superficie">-55.876379000000000</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Polígono</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-24.00268927</SimpleData>
-            <SimpleData name="Grupo Impl">-55.87582359</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KABAYU PASO</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-24.002655699999998</SimpleData>
+            <SimpleData name="Vivienda_1">-55.876379000000000</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Polígono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.002689270000001</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.875823590000003</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
-            <SimpleData name="% de prend">2026/09/03</SimpleData>
-            <SimpleData name="Estado FAO">90</SimpleData>
-            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-26</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
-            <SimpleData name="Situaci�_1">🟩 CUMPLE🟩</SimpleData>
-            <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">Falta de interés o no ve el beneficio;Parcela abandonada</SimpleData>
-            <SimpleData name="Prioridad">12.448290821761475</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">2026/09/03</SimpleData>
+            <SimpleData name="% de prend">90</SimpleData>
+            <SimpleData name="Estado FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/26</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">🟩 CUMPLE🟩</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">Falta de interés o no ve el beneficio;Parcela abandonada</SimpleData>
+            <SimpleData name="Dias trans">12.448290821761473</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
@@ -962,51 +961,51 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="Localidad_YPEJH__.18">
+      <Placemark id="Distrito_YPEJH__.18">
         <ExtendedData>
-          <SchemaData schemaUrl="#Localidad_YPEJH__.schema">
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
             <SimpleData name="Cédula">8116462.00000000000</SimpleData>
             <SimpleData name="cedula">8116462</SimpleData>
-            <SimpleData name="N">8116462</SimpleData>
-            <SimpleData name="Nombres y">126</SimpleData>
-            <SimpleData name="Sexo">RAMON ROMERO SOSA</SimpleData>
-            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="N">126</SimpleData>
+            <SimpleData name="Nombres y">RAMON ROMERO SOSA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio de">NO</SimpleData>
             <SimpleData name="Titular se">NO</SimpleData>
-            <SimpleData name="Cédula Ti">NO</SimpleData>
-            <SimpleData name="Situación">-</SimpleData>
-            <SimpleData name="Comunidad">NO</SimpleData>
-            <SimpleData name="Modelo imp">Indígena</SimpleData>
-            <SimpleData name="Departamen">Modelo 5</SimpleData>
-            <SimpleData name="Distrito">CANINDEYU</SimpleData>
-            <SimpleData name="Localidad">YPEJHÚ</SimpleData>
-            <SimpleData name="Teléfono">COM INDIG KABAYU PASO</SimpleData>
-            <SimpleData name="Vivienda_L">0986862521</SimpleData>
-            <SimpleData name="Vivienda_1">-23.995919</SimpleData>
-            <SimpleData name="Superficie">-55.868176900000002</SimpleData>
-            <SimpleData name="Situaci�">0.7</SimpleData>
-            <SimpleData name="Plantado">Polígono</SimpleData>
-            <SimpleData name="Parcela_La">Si</SimpleData>
-            <SimpleData name="Parcela_Lo">-23.99610895</SimpleData>
-            <SimpleData name="Grupo Impl">-55.86696309</SimpleData>
-            <SimpleData name="Grupo de P">G2</SimpleData>
-            <SimpleData name="Jornales">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Cédula Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Indígena</SimpleData>
+            <SimpleData name="Modelo imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJHÚ</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KABAYU PASO</SimpleData>
+            <SimpleData name="Teléfono">0986862521</SimpleData>
+            <SimpleData name="Vivienda_L">-23.995919000000001</SimpleData>
+            <SimpleData name="Vivienda_1">-55.868176900000002</SimpleData>
+            <SimpleData name="Superficie">0.700000000000000</SimpleData>
+            <SimpleData name="Situaci�">Polígono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-23.996108950000000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.866963089999999</SimpleData>
+            <SimpleData name="Grupo Impl">G2</SimpleData>
+            <SimpleData name="Grupo de P">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0</SimpleData>
             <SimpleData name="Monto">0</SimpleData>
-            <SimpleData name="ETAPA FAO">0</SimpleData>
-            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Adjudicado">Activo</SimpleData>
-            <SimpleData name="Empresa">SI</SimpleData>
-            <SimpleData name="Lote">Hyh Consultores SRL</SimpleData>
-            <SimpleData name="Fecha de M">H</SimpleData>
-            <SimpleData name="% de prend">2026/09/03</SimpleData>
-            <SimpleData name="Estado FAO">90</SimpleData>
-            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
-            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
-            <SimpleData name="Cumple sup">2026-08-26</SimpleData>
-            <SimpleData name="Estado mon">Si</SimpleData>
-            <SimpleData name="Situaci�_1">🟩 CUMPLE🟩</SimpleData>
-            <SimpleData name="Observaci�">-</SimpleData>
-            <SimpleData name="Dias trans">Falta de interés o no ve el beneficio;Parcela utilizada para otros rubros</SimpleData>
-            <SimpleData name="Prioridad">12.334626851850771</SimpleData>
+            <SimpleData name="ETAPA FAO">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Estado del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha de M">2026/09/03</SimpleData>
+            <SimpleData name="% de prend">90</SimpleData>
+            <SimpleData name="Estado FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa de i">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Fecha visi">2026/08/26</SimpleData>
+            <SimpleData name="Cumple sup">Si</SimpleData>
+            <SimpleData name="Estado mon">🟩 CUMPLE🟩</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">Falta de interés o no ve el beneficio;Parcela utilizada para otros rubros</SimpleData>
+            <SimpleData name="Dias trans">12.334626851850771</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Point>
