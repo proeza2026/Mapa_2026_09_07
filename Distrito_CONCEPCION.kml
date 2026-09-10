@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_CONCEPCION.schema">
+      <SimpleField name="Cédula" type="float"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="float"/>
+      <SimpleField name="Nombres y" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio de" type="string"/>
+      <SimpleField name="Titular se" type="string"/>
+      <SimpleField name="Cédula Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="string"/>
+      <SimpleField name="Vivienda_1" type="string"/>
+      <SimpleField name="Superficie" type="float"/>
+      <SimpleField name="Situaci�_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="string"/>
+      <SimpleField name="Parcela_Lo" type="string"/>
+      <SimpleField name="Grupo Impl" type="string"/>
+      <SimpleField name="Grupo de P" type="string"/>
+      <SimpleField name="Jornales" type="string"/>
+      <SimpleField name="Monto" type="string"/>
+      <SimpleField name="ETAPA FAO" type="string"/>
+      <SimpleField name="Estado del" type="string"/>
+      <SimpleField name="Adjudicado" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Fecha de M" type="string"/>
+      <SimpleField name="% de prend" type="string"/>
+      <SimpleField name="Estado FAO" type="string"/>
+      <SimpleField name="Etapa de i" type="string"/>
+      <SimpleField name="Fecha visi" type="string"/>
+      <SimpleField name="Cumple sup" type="string"/>
+      <SimpleField name="Estado mon" type="string"/>
+      <SimpleField name="Situaci�_2" type="string"/>
+      <SimpleField name="Observaci�" type="string"/>
+      <SimpleField name="Dias trans" type="string"/>
+      <SimpleField name="Prioridad" type="string"/>
+    </Schema>
+    <Document id="Distrito_CONCEPCION">
+      <name>Distrito_CONCEPCION</name>
+      <Placemark id="Distrito_CONCEPCION.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">4174312.00000000000</SimpleData>
+            <SimpleData name="cedula">4174312</SimpleData>
+            <SimpleData name="N">4174312</SimpleData>
+            <SimpleData name="Nombres y">133</SimpleData>
+            <SimpleData name="Sexo">AGRIPINA ARCE TORRES</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 2</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0971430224</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3456759</SimpleData>
+            <SimpleData name="Superficie">-56.508960500000001</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34630099</SimpleData>
+            <SimpleData name="Grupo Impl">-56.51002817</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-18</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">20.475370370368182</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5098966994787,-23.3466209998022,0
+                -56.5105440998014,-23.3466934998509,0
+                -56.5105784997309,-23.3465451999178,0
+                -56.510695499106,-23.3461183004252,0
+                -56.5103128990394,-23.3460104005365,0
+                -56.5095169993124,-23.3459148000353,0
+                -56.5094641994326,-23.3462000998043,0
+                -56.5093769992829,-23.3462035002492,0
+                -56.5093053997813,-23.3464101997579,0
+                -56.5095714992454,-23.3465116997179,0
+                -56.5098966994787,-23.3466209998022,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">7199058.00000000000</SimpleData>
+            <SimpleData name="cedula">7199058</SimpleData>
+            <SimpleData name="N">7199058</SimpleData>
+            <SimpleData name="Nombres y">274</SimpleData>
+            <SimpleData name="Sexo">MARLENE ARCE RECALDE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 2</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0982044413</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3437359</SimpleData>
+            <SimpleData name="Superficie">-56.509604099999997</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34388477</SimpleData>
+            <SimpleData name="Grupo Impl">-56.51047859</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">21.4515046296292</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5100062756879,-23.3440117908601,0
+                -56.510565398009,-23.3441561126179,0
+                -56.5111549998021,-23.3443082993895,0
+                -56.5112350000211,-23.3438499995247,0
+                -56.5107832993577,-23.3437300006555,0
+                -56.5103216996931,-23.3435817004079,0
+                -56.5099366998471,-23.3434582999667,0
+                -56.5098517002672,-23.3434983004663,0
+                -56.5097316993381,-23.3437016999216,0
+                -56.5098517001831,-23.3437083000963,0
+                -56.5099216993003,-23.3437917006589,0
+                -56.5097199993306,-23.3437867001083,0
+                -56.5097049994907,-23.3439117008572,0
+                -56.5098250002652,-23.343964999854,0
+                -56.5100062756879,-23.3440117908601,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6229664.00000000000</SimpleData>
+            <SimpleData name="cedula">6229664</SimpleData>
+            <SimpleData name="N">6229664</SimpleData>
+            <SimpleData name="Nombres y">275</SimpleData>
+            <SimpleData name="Sexo">LIDIA MARIANA ROMERO ESPINOLA</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0973110263</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3411695</SimpleData>
+            <SimpleData name="Superficie">-56.509842200000001</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34197713</SimpleData>
+            <SimpleData name="Grupo Impl">-56.51083006</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">21.4513078703676</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5104034995439,-23.3423817004342,0
+                -56.5111114994678,-23.3425017997514,0
+                -56.5111904999034,-23.3424761004683,0
+                -56.5112146998417,-23.3424221000784,0
+                -56.5112480998775,-23.3420856998743,0
+                -56.5112177999414,-23.3416832000377,0
+                -56.5111856988671,-23.3415391996596,0
+                -56.5104643998311,-23.3414378004726,0
+                -56.5104034995439,-23.3423817004342,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6170097.00000000000</SimpleData>
+            <SimpleData name="cedula">6170097</SimpleData>
+            <SimpleData name="N">6170097</SimpleData>
+            <SimpleData name="Nombres y">280</SimpleData>
+            <SimpleData name="Sexo">MIRIAN ECHAGUE RECALDE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 2</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0984091850</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3396121</SimpleData>
+            <SimpleData name="Superficie">-56.508765799999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.33956872</SimpleData>
+            <SimpleData name="Grupo Impl">-56.50739441</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">21.450763888889924</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5070501468456,-23.3398981737626,0
+                -56.5070885991401,-23.3398931000099,0
+                -56.5072266945711,-23.3398747851392,0
+                -56.5073132992756,-23.3398632995796,0
+                -56.5073581613552,-23.3398647296877,0
+                -56.5074884644481,-23.3398688836194,0
+                -56.5075579994071,-23.3398711003353,0
+                -56.5079200002047,-23.3398671002862,0
+                -56.5080783990989,-23.3394566999785,0
+                -56.5080799996722,-23.3393483002294,0
+                -56.5068293992558,-23.3392031001091,0
+                -56.5068332004504,-23.3399268004771,0
+                -56.5070501468456,-23.3398981737626,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">7900312.00000000000</SimpleData>
+            <SimpleData name="cedula">7900312</SimpleData>
+            <SimpleData name="N">7900312</SimpleData>
+            <SimpleData name="Nombres y">372</SimpleData>
+            <SimpleData name="Sexo">RODRIGO GALEANO</SimpleData>
+            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">HORQUETA</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG PASO ITA</SimpleData>
+            <SimpleData name="Vivienda_L">976841633</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3994362</SimpleData>
+            <SimpleData name="Superficie">-56.851159699999997</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Polígono</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.40011749</SimpleData>
+            <SimpleData name="Grupo Impl">-56.85142566</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-03</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">4.46603009258979</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8508093001294,-23.3993991003182,0
+                -56.8513035003562,-23.4005578993186,0
+                -56.8514127000603,-23.4006202999208,0
+                -56.8516212999823,-23.4005633997953,0
+                -56.8517302001142,-23.4006269001071,0
+                -56.8518185000206,-23.4007834004971,0
+                -56.8520303997821,-23.4006889998848,0
+                -56.8516445000978,-23.3997972997478,0
+                -56.8514240007065,-23.3998820995705,0
+                -56.8512917998617,-23.3996134002461,0
+                -56.8511199997752,-23.3995846997567,0
+                -56.8509963000491,-23.3993367000921,0
+                -56.8508093001294,-23.3993991003182,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6788915.00000000000</SimpleData>
+            <SimpleData name="cedula">6788915</SimpleData>
+            <SimpleData name="N">6788915</SimpleData>
+            <SimpleData name="Nombres y">277</SimpleData>
+            <SimpleData name="Sexo">DIGNA ARCE RECALDE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3462679</SimpleData>
+            <SimpleData name="Superficie">-56.509006300000003</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34612444</SimpleData>
+            <SimpleData name="Grupo Impl">-56.5076282</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-18</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">20.47574074073782</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5070720391888,-23.3464101780861,0
+                -56.5081116997964,-23.3465533000171,0
+                -56.5081694001813,-23.3459578001912,0
+                -56.5079951998348,-23.3459220998982,0
+                -56.5079332004524,-23.3458080996659,0
+                -56.5076336002069,-23.345702799898,0
+                -56.5072367001651,-23.3456650000658,0
+                -56.5070720391888,-23.3464101780861,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">7789782.00000000000</SimpleData>
+            <SimpleData name="cedula">7789782</SimpleData>
+            <SimpleData name="N">7789782</SimpleData>
+            <SimpleData name="Nombres y">281</SimpleData>
+            <SimpleData name="Sexo">MABEL ESPINOLA PORTILLO</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0983061207</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3418103</SimpleData>
+            <SimpleData name="Superficie">-56.509226699999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34173795</SimpleData>
+            <SimpleData name="Grupo Impl">-56.50784955</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">21.451608796298387</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5072034996346,-23.3419988000426,0
+                -56.5083400001857,-23.3420650004383,0
+                -56.5084166998039,-23.3419469003686,0
+                -56.5084269995937,-23.3417983996258,0
+                -56.5085622003361,-23.3416484996684,0
+                -56.5085549999714,-23.3415199995752,0
+                -56.5072945001664,-23.3413928998318,0
+                -56.5072034996346,-23.3419988000426,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6616006.00000000000</SimpleData>
+            <SimpleData name="cedula">6616006</SimpleData>
+            <SimpleData name="N">6616006</SimpleData>
+            <SimpleData name="Nombres y">373</SimpleData>
+            <SimpleData name="Sexo">MARIA CRISTINA  ARCE GARCETE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">HORQUETA</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG PASO ITA</SimpleData>
+            <SimpleData name="Vivienda_L">976811620</SimpleData>
+            <SimpleData name="Vivienda_1">-23.4086316</SimpleData>
+            <SimpleData name="Superficie">-56.855364399999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.40899964</SimpleData>
+            <SimpleData name="Grupo Impl">-56.86132882</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">Si</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-03</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">4.465046296303626</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.8547913998627,-23.4092894997856,0
+                  -56.8549785999696,-23.4096024000335,0
+                  -56.8549830656218,-23.4096001061936,0
+                  -56.8553804218982,-23.4093959818491,0
+                  -56.8554018001618,-23.4093850003943,0
+                  -56.8550604004615,-23.4089053998857,0
+                  -56.8547442997959,-23.4090905999665,0
+                  -56.8547913998627,-23.4092894997856,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.8609282995753,-23.4086449998656,0
+                  -56.8611657997384,-23.4094899996126,0
+                  -56.8618399995735,-23.4091167004017,0
+                  -56.8613533001927,-23.408585000319,0
+                  -56.8609282995753,-23.4086449998656,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6609953.00000000000</SimpleData>
+            <SimpleData name="cedula">6609953</SimpleData>
+            <SimpleData name="N">6609953</SimpleData>
+            <SimpleData name="Nombres y">272</SimpleData>
+            <SimpleData name="Sexo">OSVALDA GARCETE ARCE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0984064525</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3424064</SimpleData>
+            <SimpleData name="Superficie">-56.509199700000003</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34225345</SimpleData>
+            <SimpleData name="Grupo Impl">-56.50764403</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">21.451655092590954</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5067015000103,-23.3421645002198,0
+                -56.5066974004621,-23.3424111999106,0
+                -56.5067109404323,-23.3424119742205,0
+                -56.5067110998758,-23.3424087996853,0
+                -56.5073727247802,-23.3424498210883,0
+                -56.5085790002988,-23.3425188000856,0
+                -56.5085829998593,-23.3420925996813,0
+                -56.5067023997446,-23.3419913998266,0
+                -56.5067015000103,-23.3421645002198,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">4200849.00000000000</SimpleData>
+            <SimpleData name="cedula">4200849</SimpleData>
+            <SimpleData name="N">4200849</SimpleData>
+            <SimpleData name="Nombres y">276</SimpleData>
+            <SimpleData name="Sexo">ANA MARIELA RECALDE GARCETE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">SI</SimpleData>
+            <SimpleData name="Cédula Ti">MARISEL ARCE RECALDE</SimpleData>
+            <SimpleData name="Situación">6788923</SimpleData>
+            <SimpleData name="Comunidad">0</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0975362702</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3464382</SimpleData>
+            <SimpleData name="Superficie">-56.508905200000001</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34598352</SimpleData>
+            <SimpleData name="Grupo Impl">-56.50666433</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-18</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">20.47556712962978</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5060908216155,-23.3462750958046,0
+                -56.5061151975653,-23.3462784516058,0
+                -56.5070549691436,-23.3464078282046,0
+                -56.5072216995309,-23.3456692000908,0
+                -56.5072112193435,-23.3456681364639,0
+                -56.5062766996582,-23.3455732999529,0
+                -56.5062179570055,-23.3457950881227,0
+                -56.5061065548501,-23.3462156941309,0
+                -56.5061015306956,-23.346234662558,0
+                -56.5060908216155,-23.3462750958046,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6355355.00000000000</SimpleData>
+            <SimpleData name="cedula">6355355</SimpleData>
+            <SimpleData name="N">6355355</SimpleData>
+            <SimpleData name="Nombres y">271</SimpleData>
+            <SimpleData name="Sexo">TIMOTEA FERNANDEZ ACOSTA</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0975373359</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3440474</SimpleData>
+            <SimpleData name="Superficie">-56.509680799999998</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34438778</SimpleData>
+            <SimpleData name="Grupo Impl">-56.51054149</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-13</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">Incendios;La parcela se encuentra con perdida total por incendio</SimpleData>
+            <SimpleData name="Prioridad">25.60222917824285</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.510565398009,-23.3441561126179,0
+                -56.5100062756879,-23.3440117908601,0
+                -56.50989330027,-23.343996700255,0
+                -56.5099100997388,-23.3441624997421,0
+                -56.5097974998893,-23.3442990000004,0
+                -56.509665599598,-23.3443169995444,0
+                -56.5096175002639,-23.3443991000106,0
+                -56.5099561998029,-23.344404599956,0
+                -56.5102113003975,-23.344505500737,0
+                -56.5103422003415,-23.3445461007649,0
+                -56.5106012998598,-23.3446263996124,0
+                -56.5108565999184,-23.3447169004842,0
+                -56.5110600998759,-23.3447784010127,0
+                -56.511146900066,-23.3447942003467,0
+                -56.5111931995535,-23.3447415001467,0
+                -56.5112550000295,-23.3446200001223,0
+                -56.5111982995491,-23.3443270006256,0
+                -56.510565398009,-23.3441561126179,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">7864423.00000000000</SimpleData>
+            <SimpleData name="cedula">7864423</SimpleData>
+            <SimpleData name="N">7864423</SimpleData>
+            <SimpleData name="Nombres y">135</SimpleData>
+            <SimpleData name="Sexo">JUANA MENDOZA VELAZQUEZ</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono"><![CDATA[COM INDIG VY'A PAVE]]></SimpleData>
+            <SimpleData name="Vivienda_L">991677066</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3409871</SimpleData>
+            <SimpleData name="Superficie">-56.509124499999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34120865</SimpleData>
+            <SimpleData name="Grupo Impl">-56.50735543</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">21.451585648137552</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5063817998786,-23.3412640999834,0
+                -56.5083869924435,-23.3415026865585,0
+                -56.5084616999206,-23.3411667002999,0
+                -56.5077197993299,-23.3410805001746,0
+                -56.506689099839,-23.3409690002838,0
+                -56.5062071996707,-23.3409319997339,0
+                -56.5062247992213,-23.3410890999119,0
+                -56.5063817998786,-23.3412640999834,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">7544435.00000000000</SimpleData>
+            <SimpleData name="cedula">7544435</SimpleData>
+            <SimpleData name="N">7544435</SimpleData>
+            <SimpleData name="Nombres y">278</SimpleData>
+            <SimpleData name="Sexo">GRACIELA FERNANDEZ ARCE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 2</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0975376286</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3403269</SimpleData>
+            <SimpleData name="Superficie">-56.509429400000002</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.34013004</SimpleData>
+            <SimpleData name="Grupo Impl">-56.50786077</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">21.45092592592846</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5072266945711,-23.3398747851392,0
+                -56.5070885991401,-23.3398931000099,0
+                -56.5070501468456,-23.3398981737626,0
+                -56.5070566991558,-23.3403367001654,0
+                -56.5071216005224,-23.3403609001352,0
+                -56.5073066992035,-23.3403505998089,0
+                -56.5078216999779,-23.3403531007382,0
+                -56.5081784993068,-23.3403697002876,0
+                -56.5083078990325,-23.3403093003175,0
+                -56.5085050003348,-23.34036840024,0
+                -56.5087730994813,-23.3403239002073,0
+                -56.5087871993885,-23.3401982002437,0
+                -56.5087698002211,-23.3400453996473,0
+                -56.508007800244,-23.33987420043,0
+                -56.5078182992223,-23.339880000252,0
+                -56.5076014994561,-23.3398965001176,0
+                -56.5075409994433,-23.3398757005938,0
+                -56.5074884644481,-23.3398688836194,0
+                -56.5073581613552,-23.3398647296877,0
+                -56.5072266945711,-23.3398747851392,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">7544358.00000000000</SimpleData>
+            <SimpleData name="cedula">7544358</SimpleData>
+            <SimpleData name="N">7544358</SimpleData>
+            <SimpleData name="Nombres y">279</SimpleData>
+            <SimpleData name="Sexo">MARIA FERNANDEZ ARCE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 2</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Vivienda_L">0975376286</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3401449</SimpleData>
+            <SimpleData name="Superficie">-56.509333900000001</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.33956286</SimpleData>
+            <SimpleData name="Grupo Impl">-56.50616516</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-17</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">21.450833333343326</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5061614997769,-23.3392631007414,0
+                -56.5059582005617,-23.3393422004608,0
+                -56.50562690025,-23.3393037997831,0
+                -56.505493499498,-23.3393366998272,0
+                -56.5054021995991,-23.3398858999708,0
+                -56.5054638000131,-23.3398928998278,0
+                -56.5060614000926,-23.339876701098,0
+                -56.5061906999048,-23.3398691003352,0
+                -56.5063699998437,-23.3398299997233,0
+                -56.5068179994481,-23.3399056998011,0
+                -56.5068134996012,-23.3391932006473,0
+                -56.5065928994164,-23.3391798002497,0
+                -56.5061966995053,-23.3391765002064,0
+                -56.5061614997769,-23.3392631007414,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6027481.00000000000</SimpleData>
+            <SimpleData name="cedula">6027481</SimpleData>
+            <SimpleData name="N">6027481</SimpleData>
+            <SimpleData name="Nombres y">267</SimpleData>
+            <SimpleData name="Sexo">CESAR SEBASTIAN ARISTE</SimpleData>
+            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">HORQUETA</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG PASO ITA</SimpleData>
+            <SimpleData name="Vivienda_L">0976431195</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3972784</SimpleData>
+            <SimpleData name="Superficie">-56.849495300000001</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Polígono</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.39777048</SimpleData>
+            <SimpleData name="Grupo Impl">-56.84977728</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-27</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">Participante alambro la parcela y metio animales. Utiliza como piquete para ganado vacuno su parcela;Alambro y utiliza como piquete para ganado su parcela</SimpleData>
+            <SimpleData name="Prioridad">11.349344571761321</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8492333007841,-23.3974999999886,0
+                -56.8497348005511,-23.3984249006594,0
+                -56.8499966997607,-23.3982782996138,0
+                -56.8499380002073,-23.3980484996464,0
+                -56.8502817003943,-23.3978633001523,0
+                -56.8499982995385,-23.3972472997012,0
+                -56.8492333007841,-23.3974999999886,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6588098.00000000000</SimpleData>
+            <SimpleData name="cedula">6588098</SimpleData>
+            <SimpleData name="N">6588098</SimpleData>
+            <SimpleData name="Nombres y">313</SimpleData>
+            <SimpleData name="Sexo">NANCY INSFRAN RIQUELME</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">ASENT. RECONQUISTA</SimpleData>
+            <SimpleData name="Vivienda_L">0986949196</SimpleData>
+            <SimpleData name="Vivienda_1">-23.0490986</SimpleData>
+            <SimpleData name="Superficie">-56.710761200000000</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.11146272</SimpleData>
+            <SimpleData name="Grupo Impl">-56.70154347</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.00130787037051</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7009108000061,-23.1113851001894,0
+                -56.701741500224,-23.1120498997268,0
+                -56.7021480004557,-23.1115227002594,0
+                -56.7013949998967,-23.1108883003688,0
+                -56.7009108000061,-23.1113851001894,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6611568.00000000000</SimpleData>
+            <SimpleData name="cedula">6611568</SimpleData>
+            <SimpleData name="N">6611568</SimpleData>
+            <SimpleData name="Nombres y">300</SimpleData>
+            <SimpleData name="Sexo">LORENA GOMEZ PAEZ</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">NUCLEO 2</SimpleData>
+            <SimpleData name="Vivienda_L">0981007674</SimpleData>
+            <SimpleData name="Vivienda_1">-23.2399827</SimpleData>
+            <SimpleData name="Superficie">-56.741184799999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.23689746</SimpleData>
+            <SimpleData name="Grupo Impl">-56.73918463</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.18583333333663</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.7385913003408,-23.2366428995457,0
+                  -56.7393683004533,-23.2374499996253,0
+                  -56.7397817003703,-23.2371132998279,0
+                  -56.7391101005161,-23.2364850995904,0
+                  -56.7389683004211,-23.2363516997964,0
+                  -56.7385913003408,-23.2366428995457,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.7307021003812,-23.2304483002008,0
+                  -56.7307888996416,-23.2305573990861,0
+                  -56.7313516997346,-23.2298583001199,0
+                  -56.731206700084,-23.2297217000665,0
+                  -56.7309417002531,-23.2300982997456,0
+                  -56.7307021003812,-23.2304483002008,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">4591428.00000000000</SimpleData>
+            <SimpleData name="cedula">4591428</SimpleData>
+            <SimpleData name="N">4591428</SimpleData>
+            <SimpleData name="Nombres y">305</SimpleData>
+            <SimpleData name="Sexo">MARIO MARCELINO AGUILERA RODRIGUEZ</SimpleData>
+            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">NUCLEO 5</SimpleData>
+            <SimpleData name="Vivienda_L">9999999999</SimpleData>
+            <SimpleData name="Vivienda_1">-23.2474141</SimpleData>
+            <SimpleData name="Superficie">-56.719059600000001</SimpleData>
+            <SimpleData name="Situaci�_1">0.9</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.24804172</SimpleData>
+            <SimpleData name="Grupo Impl">-56.7206719</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.410023148149776</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.7203817001558,-23.2484732995977,0
+                  -56.7207032997444,-23.2486167001987,0
+                  -56.7209622004414,-23.2475583991716,0
+                  -56.7207253002462,-23.2475578996104,0
+                  -56.7207143006255,-23.2474963999451,0
+                  -56.7205240001983,-23.2474264994933,0
+                  -56.7204233003112,-23.2477728991699,0
+                  -56.7205712006655,-23.2478772000178,0
+                  -56.7203817001558,-23.2484732995977,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.7200348010038,-23.2471578994031,0
+                  -56.7205117006905,-23.2472616996049,0
+                  -56.7205905004662,-23.2468134995209,0
+                  -56.7201057001505,-23.2467923996873,0
+                  -56.7200348010038,-23.2471578994031,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.706715000216,-23.2363049997834,0
+                  -56.7068633004187,-23.2364616998697,0
+                  -56.7070403006406,-23.2363096000709,0
+                  -56.7068692005624,-23.2361425996395,0
+                  -56.706715000216,-23.2363049997834,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6004078.00000000000</SimpleData>
+            <SimpleData name="cedula">6004078</SimpleData>
+            <SimpleData name="N">6004078</SimpleData>
+            <SimpleData name="Nombres y">306</SimpleData>
+            <SimpleData name="Sexo">DANIA EDITH SALINAS ROJAS</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">NUCLEO 6</SimpleData>
+            <SimpleData name="Vivienda_L">0971140397</SimpleData>
+            <SimpleData name="Vivienda_1">-23.2927524</SimpleData>
+            <SimpleData name="Superficie">-56.698755599999998</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.29296431</SimpleData>
+            <SimpleData name="Grupo Impl">-56.71378545</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-19</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">19.29200231481809</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.713749099529,-23.2923319000235,0
+                -56.7135958000735,-23.2930524002903,0
+                -56.7132217000995,-23.2930150002108,0
+                -56.7131882993095,-23.2933232997902,0
+                -56.7137708003114,-23.2934484000016,0
+                -56.714030999966,-23.2934474997686,0
+                -56.7142133004872,-23.2924249999182,0
+                -56.713749099529,-23.2923319000235,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6619725.00000000000</SimpleData>
+            <SimpleData name="cedula">6619725</SimpleData>
+            <SimpleData name="N">6619725</SimpleData>
+            <SimpleData name="Nombres y">301</SimpleData>
+            <SimpleData name="Sexo">SONIA PAOLA CARBALLO AQUINO</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">NUCLEO 2</SimpleData>
+            <SimpleData name="Vivienda_L">0982438493</SimpleData>
+            <SimpleData name="Vivienda_1">-23.228506</SimpleData>
+            <SimpleData name="Superficie">-56.753457599999997</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.22037061</SimpleData>
+            <SimpleData name="Grupo Impl">-56.74061675</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.288321759260725</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7407315999623,-23.2207911005773,0
+                -56.7408518005514,-23.2207992000149,0
+                -56.7409227002929,-23.220773899432,0
+                -56.7412366999446,-23.2204400000641,0
+                -56.7405717002259,-23.2198328001327,0
+                -56.7404978996589,-23.2198476995452,0
+                -56.7400117998051,-23.2204504000113,0
+                -56.740019499795,-23.2205042998826,0
+                -56.7401537001508,-23.220608799274,0
+                -56.7403643000892,-23.2206648002892,0
+                -56.7405889997303,-23.2207000995752,0
+                -56.7407315999623,-23.2207911005773,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6750400.00000000000</SimpleData>
+            <SimpleData name="cedula">6750400</SimpleData>
+            <SimpleData name="N">6750400</SimpleData>
+            <SimpleData name="Nombres y">304</SimpleData>
+            <SimpleData name="Sexo">MARI STELA RUIZ SOSA</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">NUCLEO 5</SimpleData>
+            <SimpleData name="Vivienda_L">0976110695</SimpleData>
+            <SimpleData name="Vivienda_1">-23.2615145</SimpleData>
+            <SimpleData name="Superficie">-56.728423300000003</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.26078963</SimpleData>
+            <SimpleData name="Grupo Impl">-56.72818658</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.409930555557366</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7277268004816,-23.2615450001104,0
+                -56.7281266996546,-23.2616317005649,0
+                -56.7286357003214,-23.2600950002661,0
+                -56.72863180038,-23.2600419006999,0
+                -56.7284319999678,-23.2599693999557,0
+                -56.7282952998317,-23.2600753997223,0
+                -56.7281162002368,-23.260095599332,0
+                -56.7280146996647,-23.260456399835,0
+                -56.7281323993267,-23.2605896003821,0
+                -56.7278391004516,-23.261137299866,0
+                -56.7277268004816,-23.2615450001104,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">4591527.00000000000</SimpleData>
+            <SimpleData name="cedula">4591527</SimpleData>
+            <SimpleData name="N">4591527</SimpleData>
+            <SimpleData name="Nombres y">299</SimpleData>
+            <SimpleData name="Sexo">VICENTE DUARTE VERA</SimpleData>
+            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">NUCLEO 2</SimpleData>
+            <SimpleData name="Vivienda_L">0972617510</SimpleData>
+            <SimpleData name="Vivienda_1">-23.2378198</SimpleData>
+            <SimpleData name="Superficie">-56.750504300000003</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.24525061</SimpleData>
+            <SimpleData name="Grupo Impl">-56.71584723</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.40990740739653</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7155216994268,-23.2447998996081,0
+                -56.7152647999829,-23.2457792994681,0
+                -56.715447099557,-23.2458179996153,0
+                -56.7155332999828,-23.2454830994886,0
+                -56.7163077189371,-23.2455632060223,0
+                -56.7163780460653,-23.2453741502975,0
+                -56.7164399991657,-23.2450181994073,0
+                -56.7155216994268,-23.2447998996081,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">4418455.00000000000</SimpleData>
+            <SimpleData name="cedula">4418455</SimpleData>
+            <SimpleData name="N">4418455</SimpleData>
+            <SimpleData name="Nombres y">310</SimpleData>
+            <SimpleData name="Sexo">LISA ROSANA SANABRIA DE CORONEL</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">CUERO FRESCO</SimpleData>
+            <SimpleData name="Vivienda_L">0971916810</SimpleData>
+            <SimpleData name="Vivienda_1">-23.1059775</SimpleData>
+            <SimpleData name="Superficie">-56.683978199999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.09991325</SimpleData>
+            <SimpleData name="Grupo Impl">-56.68482054</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.00131944444729</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6843193992155,-23.1001675999475,0
+                -56.6850417001428,-23.1004299993621,0
+                -56.685323099359,-23.0996224000945,0
+                -56.6845766989637,-23.0994266995202,0
+                -56.6843193992155,-23.1001675999475,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">4535227.00000000000</SimpleData>
+            <SimpleData name="cedula">4535227</SimpleData>
+            <SimpleData name="N">4535227</SimpleData>
+            <SimpleData name="Nombres y">312</SimpleData>
+            <SimpleData name="Sexo">ROSALBA MARLENE VILLALBA GONZALEZ</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">CUERO FRESCO</SimpleData>
+            <SimpleData name="Vivienda_L">0975102799</SimpleData>
+            <SimpleData name="Vivienda_1">-23.1021142</SimpleData>
+            <SimpleData name="Superficie">-56.678882000000002</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.09646188</SimpleData>
+            <SimpleData name="Grupo Impl">-56.6833715</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.001388888893416</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6831377994483,-23.0966540002088,0
+                -56.6841432999403,-23.0970532996405,0
+                -56.6841872995852,-23.0968691998795,0
+                -56.6837878995039,-23.0967048003276,0
+                -56.6838622992893,-23.0963887000654,0
+                -56.6827279997487,-23.0959366000538,0
+                -56.6825611000776,-23.0962525002771,0
+                -56.6832164001064,-23.096475100136,0
+                -56.6831377994483,-23.0966540002088,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">5443034.00000000000</SimpleData>
+            <SimpleData name="cedula">5443034</SimpleData>
+            <SimpleData name="N">5443034</SimpleData>
+            <SimpleData name="Nombres y">309</SimpleData>
+            <SimpleData name="Sexo">LUCIA CONCEPCION OVELAR NUÑEZ</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">CALLE 16 SUR</SimpleData>
+            <SimpleData name="Vivienda_L">0982149681</SimpleData>
+            <SimpleData name="Vivienda_1">-23.209728</SimpleData>
+            <SimpleData name="Superficie">-56.785299999999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.21418272</SimpleData>
+            <SimpleData name="Grupo Impl">-56.77537535</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-19</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">19.447407407409628</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7750281995534,-23.2148931001955,0
+                -56.7755540990953,-23.2149674998368,0
+                -56.7757188988623,-23.2134292000141,0
+                -56.775191799476,-23.2134335005934,0
+                -56.7750281995534,-23.2148931001955,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">5691395.00000000000</SimpleData>
+            <SimpleData name="cedula">5691395</SimpleData>
+            <SimpleData name="N">5691395</SimpleData>
+            <SimpleData name="Nombres y">396</SimpleData>
+            <SimpleData name="Sexo">LIZ ROCIO  MONTIEL CABRERA</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">-</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">ARROYITO CENTRO</SimpleData>
+            <SimpleData name="Vivienda_L">0</SimpleData>
+            <SimpleData name="Vivienda_1">-23.1825474</SimpleData>
+            <SimpleData name="Superficie">-56.793994900000001</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.18018619</SimpleData>
+            <SimpleData name="Grupo Impl">-56.79574903</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">-</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.220844907409628</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7951804989575,-23.1807618007012,0
+                -56.7955472995042,-23.1809398999826,0
+                -56.7963246994212,-23.1796262001048,0
+                -56.795924999455,-23.1794467004842,0
+                -56.7951804989575,-23.1807618007012,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">5956623.00000000000</SimpleData>
+            <SimpleData name="cedula">5956623</SimpleData>
+            <SimpleData name="N">5956623</SimpleData>
+            <SimpleData name="Nombres y">303</SimpleData>
+            <SimpleData name="Sexo">NILSA MELGAREJO CHAMORRO</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 4</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">NUCLEO 3</SimpleData>
+            <SimpleData name="Vivienda_L">0976808615</SimpleData>
+            <SimpleData name="Vivienda_1">-23.2420429</SimpleData>
+            <SimpleData name="Superficie">-56.702076599999998</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.25233041</SimpleData>
+            <SimpleData name="Grupo Impl">-56.70761378</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-24</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">14.47194444444176</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7067644361538,-23.2516656983477,0
+                -56.7081565035062,-23.2531304444778,0
+                -56.708415999809,-23.2528896005722,0
+                -56.7070049996763,-23.2515166995204,0
+                -56.7067644361538,-23.2516656983477,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6871573.00000000000</SimpleData>
+            <SimpleData name="cedula">6871573</SimpleData>
+            <SimpleData name="N">6871573</SimpleData>
+            <SimpleData name="Nombres y">395</SimpleData>
+            <SimpleData name="Sexo">LILIAN ELIZABETH GAYOZO RICARDI</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">-</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">ARROYITO CENTRO</SimpleData>
+            <SimpleData name="Vivienda_L">975258113</SimpleData>
+            <SimpleData name="Vivienda_1">-23.1788696</SimpleData>
+            <SimpleData name="Superficie">-56.785483100000000</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.25268008</SimpleData>
+            <SimpleData name="Grupo Impl">-56.71897983</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">-</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.409953703696374</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.718507699568,-23.2529656005785,0
+                  -56.7189931995753,-23.2533099004958,0
+                  -56.7193960003314,-23.2523337008782,0
+                  -56.7193616995823,-23.2522167009129,0
+                  -56.719000399906,-23.2520841999443,0
+                  -56.7187550002185,-23.2525867002037,0
+                  -56.718686400227,-23.2526540002815,0
+                  -56.718507699568,-23.2529656005785,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.706911999617,-23.2361175999802,0
+                  -56.7073251998422,-23.2364014997692,0
+                  -56.7075502003817,-23.2362272005176,0
+                  -56.7072099002726,-23.2358782001351,0
+                  -56.706911999617,-23.2361175999802,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">6991597.00000000000</SimpleData>
+            <SimpleData name="cedula">6991597</SimpleData>
+            <SimpleData name="N">6991597</SimpleData>
+            <SimpleData name="Nombres y">311</SimpleData>
+            <SimpleData name="Sexo">SANDRA CAROLINA ACOSTA LARREA</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">CALLE 20 NORTE</SimpleData>
+            <SimpleData name="Vivienda_L">0972795069</SimpleData>
+            <SimpleData name="Vivienda_1">-23.1250723</SimpleData>
+            <SimpleData name="Superficie">-56.745529099999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.12394748</SimpleData>
+            <SimpleData name="Grupo Impl">-56.74459946</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-20</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">18.00128472221695</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.7451402992174,-23.124516100263,0
+                  -56.7452826001506,-23.1245528000299,0
+                  -56.7453896997119,-23.1244212998762,0
+                  -56.7453184004351,-23.1243628002134,0
+                  -56.7454370996173,-23.1242143010243,0
+                  -56.745273199547,-23.1240628994326,0
+                  -56.7451402992174,-23.124516100263,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.7439933000342,-23.1239299998251,0
+                  -56.7445160996982,-23.1244352998589,0
+                  -56.7450568000944,-23.1239134001418,0
+                  -56.7444674996962,-23.1233412005432,0
+                  -56.7439933000342,-23.1239299998251,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">4395303.00000000000</SimpleData>
+            <SimpleData name="cedula">4395303</SimpleData>
+            <SimpleData name="N">4395303</SimpleData>
+            <SimpleData name="Nombres y">302</SimpleData>
+            <SimpleData name="Sexo">LISA CARIN GALEANO PRIETO</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 4</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">NUCLEO 3</SimpleData>
+            <SimpleData name="Vivienda_L">0975272317</SimpleData>
+            <SimpleData name="Vivienda_1">-23.2376372</SimpleData>
+            <SimpleData name="Superficie">-56.697541399999999</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.22733274</SimpleData>
+            <SimpleData name="Grupo Impl">-56.6966242</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-24</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">14.469629629631527</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6964600993943,-23.2277331997323,0
+                -56.6965547992175,-23.2279899993462,0
+                -56.6971182987199,-23.2275437001941,0
+                -56.6968209000459,-23.2272477996524,0
+                -56.6970049998304,-23.2270282997999,0
+                -56.6967110001161,-23.2267301997112,0
+                -56.6966657999997,-23.2267381998344,0
+                -56.6960700001416,-23.2272766999564,0
+                -56.696449499365,-23.2276094998825,0
+                -56.6964600993943,-23.2277331997323,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CONCEPCION.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CONCEPCION.schema">
+            <SimpleData name="Cédula">5938157.00000000000</SimpleData>
+            <SimpleData name="cedula">5938157</SimpleData>
+            <SimpleData name="N">5938157</SimpleData>
+            <SimpleData name="Nombres y">307</SimpleData>
+            <SimpleData name="Sexo">MARIA VICTORIA ZARACHO</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">ARROYITO</SimpleData>
+            <SimpleData name="Teléfono">PASO MBUTU</SimpleData>
+            <SimpleData name="Vivienda_L">0973151922</SimpleData>
+            <SimpleData name="Vivienda_1">-23.0879217</SimpleData>
+            <SimpleData name="Superficie">-56.862353100000000</SimpleData>
+            <SimpleData name="Situaci�_1">0.7</SimpleData>
+            <SimpleData name="Plantado">Parámetro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.14538227</SimpleData>
+            <SimpleData name="Grupo Impl">-56.84154944</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-19</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">19.140960648146574</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8410099998452,-23.1456100000567,0
+                -56.8415936004486,-23.145952500001,0
+                -56.8420949007762,-23.145161499979,0
+                -56.8414943999172,-23.1448117998198,0
+                -56.8410099998452,-23.1456100000567,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

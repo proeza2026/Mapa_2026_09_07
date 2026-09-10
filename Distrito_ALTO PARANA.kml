@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_ALTO_PARANA.schema">
+      <SimpleField name="Cédula" type="float"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="float"/>
+      <SimpleField name="Nombres y" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio de" type="string"/>
+      <SimpleField name="Titular se" type="string"/>
+      <SimpleField name="Cédula Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="string"/>
+      <SimpleField name="Vivienda_1" type="string"/>
+      <SimpleField name="Superficie" type="float"/>
+      <SimpleField name="Situaci�_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="string"/>
+      <SimpleField name="Parcela_Lo" type="string"/>
+      <SimpleField name="Grupo Impl" type="string"/>
+      <SimpleField name="Grupo de P" type="string"/>
+      <SimpleField name="Jornales" type="string"/>
+      <SimpleField name="Monto" type="string"/>
+      <SimpleField name="ETAPA FAO" type="string"/>
+      <SimpleField name="Estado del" type="string"/>
+      <SimpleField name="Adjudicado" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Fecha de M" type="string"/>
+      <SimpleField name="% de prend" type="string"/>
+      <SimpleField name="Estado FAO" type="string"/>
+      <SimpleField name="Etapa de i" type="string"/>
+      <SimpleField name="Fecha visi" type="string"/>
+      <SimpleField name="Cumple sup" type="string"/>
+      <SimpleField name="Estado mon" type="string"/>
+      <SimpleField name="Situaci�_2" type="string"/>
+      <SimpleField name="Observaci�" type="string"/>
+      <SimpleField name="Dias trans" type="string"/>
+      <SimpleField name="Prioridad" type="string"/>
+    </Schema>
+    <Document id="Distrito_ALTO_PARANA">
+      <name>Distrito_ALTO PARANA</name>
+      <Placemark id="Distrito_ALTO_PARANA.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_PARANA.schema">
+            <SimpleData name="Cédula">7758397.00000000000</SimpleData>
+            <SimpleData name="cedula">7758397</SimpleData>
+            <SimpleData name="N">7758397</SimpleData>
+            <SimpleData name="Nombres y">139</SimpleData>
+            <SimpleData name="Sexo">NOELIA NOEMI ACHUCARRO CONTRERA</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">ALTO PARANA</SimpleData>
+            <SimpleData name="Localidad">ITAKYRY</SimpleData>
+            <SimpleData name="Teléfono">CHINO KUE 1 LINEA</SimpleData>
+            <SimpleData name="Vivienda_L">0984155726</SimpleData>
+            <SimpleData name="Vivienda_1">-24.8473167</SimpleData>
+            <SimpleData name="Superficie">-55.164883300000000</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Polígono</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-24.85089773</SimpleData>
+            <SimpleData name="Grupo Impl">-55.16565054</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Fecha de M">F</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-02</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">5.585277777783631</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.1651936999285,-24.8506388002849,0
+                -55.1653832994239,-24.8516033004073,0
+                -55.1660995000662,-24.8515049998251,0
+                -55.1657840995454,-24.8498827003899,0
+                -55.1654909997522,-24.8501913992648,0
+                -55.1655418000674,-24.850411099298,0
+                -55.1651936999285,-24.8506388002849,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_PARANA.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_PARANA.schema">
+            <SimpleData name="Cédula">3875757.00000000000</SimpleData>
+            <SimpleData name="cedula">3875757</SimpleData>
+            <SimpleData name="N">3875757</SimpleData>
+            <SimpleData name="Nombres y">368</SimpleData>
+            <SimpleData name="Sexo">MARIA MIRNA  PERALTA RODRIGUEZ</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">ALTO PARANA</SimpleData>
+            <SimpleData name="Localidad">ITAKYRY</SimpleData>
+            <SimpleData name="Teléfono">ASENT. CHINO KUE - PRIMERA LINEA</SimpleData>
+            <SimpleData name="Vivienda_L">984285476</SimpleData>
+            <SimpleData name="Vivienda_1">-24.8170195</SimpleData>
+            <SimpleData name="Superficie">-55.199706300000003</SimpleData>
+            <SimpleData name="Situaci�_1">0.8</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-24.81929499</SimpleData>
+            <SimpleData name="Grupo Impl">-55.20016065</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">F-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">Si</SimpleData>
+            <SimpleData name="Lote">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Fecha de M">F</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-05</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_2">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">2.3432870370379533</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.199629099634,-24.8190225000061,0
+                -55.1997372004988,-24.8197055997081,0
+                -55.2006451000376,-24.8196534000436,0
+                -55.2005705008233,-24.8188298996583,0
+                -55.2000293997838,-24.8189123999882,0
+                -55.2000269992387,-24.8189594000523,0
+                -55.199629099634,-24.8190225000061,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
