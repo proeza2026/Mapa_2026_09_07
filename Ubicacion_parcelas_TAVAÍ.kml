@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Localidad_TAVA__.schema">
+      <SimpleField name="Cédula" type="float"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="float"/>
+      <SimpleField name="Nombres y" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio de" type="string"/>
+      <SimpleField name="Titular se" type="string"/>
+      <SimpleField name="Cédula Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="string"/>
+      <SimpleField name="Vivienda_1" type="string"/>
+      <SimpleField name="Superficie" type="float"/>
+      <SimpleField name="Situaci�" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="string"/>
+      <SimpleField name="Parcela_Lo" type="string"/>
+      <SimpleField name="Grupo Impl" type="string"/>
+      <SimpleField name="Grupo de P" type="string"/>
+      <SimpleField name="Jornales" type="string"/>
+      <SimpleField name="Monto" type="string"/>
+      <SimpleField name="ETAPA FAO" type="string"/>
+      <SimpleField name="Estado del" type="string"/>
+      <SimpleField name="Adjudicado" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Fecha de M" type="string"/>
+      <SimpleField name="% de prend" type="string"/>
+      <SimpleField name="Estado FAO" type="string"/>
+      <SimpleField name="Etapa de i" type="string"/>
+      <SimpleField name="Fecha visi" type="string"/>
+      <SimpleField name="Cumple sup" type="string"/>
+      <SimpleField name="Estado mon" type="string"/>
+      <SimpleField name="Situaci�_1" type="string"/>
+      <SimpleField name="Observaci�" type="string"/>
+      <SimpleField name="Dias trans" type="string"/>
+      <SimpleField name="Prioridad" type="string"/>
+    </Schema>
+    <Document id="Localidad_TAVA__">
+      <name>Localidad_TAVAÍ</name>
+      <Placemark id="Localidad_TAVA__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_TAVA__.schema">
+            <SimpleData name="Cédula">6013301.00000000000</SimpleData>
+            <SimpleData name="cedula">6013301</SimpleData>
+            <SimpleData name="N">6013301</SimpleData>
+            <SimpleData name="Nombres y">333</SimpleData>
+            <SimpleData name="Sexo">WILSON  LOMBARDO MOREL</SimpleData>
+            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CAAZAPA</SimpleData>
+            <SimpleData name="Localidad">TAVAÍ</SimpleData>
+            <SimpleData name="Teléfono">ÑU KAÑY</SimpleData>
+            <SimpleData name="Vivienda_L">983764463</SimpleData>
+            <SimpleData name="Vivienda_1">-26.2411143</SimpleData>
+            <SimpleData name="Superficie">-55.566897400000002</SimpleData>
+            <SimpleData name="Situaci�">0.7</SimpleData>
+            <SimpleData name="Plantado">Polígono</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-26.23707293</SimpleData>
+            <SimpleData name="Grupo Impl">-55.56967911</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">A-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Fecha de M">A</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-03</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">4.469050925923511</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.5696791060933,-26.2370729318111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Localidad_TAVA__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_TAVA__.schema">
+            <SimpleData name="Cédula">7011500.00000000000</SimpleData>
+            <SimpleData name="cedula">7011500</SimpleData>
+            <SimpleData name="N">7011500</SimpleData>
+            <SimpleData name="Nombres y">367</SimpleData>
+            <SimpleData name="Sexo">SONIA ELIZABETH  FLORES ROTELA</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CAAZAPA</SimpleData>
+            <SimpleData name="Localidad">TAVAÍ</SimpleData>
+            <SimpleData name="Teléfono">SAN FRANCISCO</SimpleData>
+            <SimpleData name="Vivienda_L">976433429</SimpleData>
+            <SimpleData name="Vivienda_1">-26.1611783</SimpleData>
+            <SimpleData name="Superficie">-55.564160000000001</SimpleData>
+            <SimpleData name="Situaci�">0.8</SimpleData>
+            <SimpleData name="Plantado">Polígono</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-26.15673759</SimpleData>
+            <SimpleData name="Grupo Impl">-55.56287221</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">A-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">Si</SimpleData>
+            <SimpleData name="Lote">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Fecha de M">A</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-01</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">6.222152777780138</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.5628722092584,-26.1567375905891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Localidad_TAVA__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_TAVA__.schema">
+            <SimpleData name="Cédula">5027967.00000000000</SimpleData>
+            <SimpleData name="cedula">5027967</SimpleData>
+            <SimpleData name="N">5027967</SimpleData>
+            <SimpleData name="Nombres y">353</SimpleData>
+            <SimpleData name="Sexo">WALTER  SANCHEZ BENITEZ</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">SI</SimpleData>
+            <SimpleData name="Cédula Ti">GRACIELA PEREZ RAMIREZ</SimpleData>
+            <SimpleData name="Situación">7082950</SimpleData>
+            <SimpleData name="Comunidad">Fallecimiento de Titular</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CAAZAPA</SimpleData>
+            <SimpleData name="Localidad">TAVAÍ</SimpleData>
+            <SimpleData name="Teléfono">ASENT. 7 DE DICIEMBRE</SimpleData>
+            <SimpleData name="Vivienda_L">984985893</SimpleData>
+            <SimpleData name="Vivienda_1">-26.24217</SimpleData>
+            <SimpleData name="Superficie">-55.604396700000002</SimpleData>
+            <SimpleData name="Situaci�">0.8</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-26.24208706</SimpleData>
+            <SimpleData name="Grupo Impl">-55.60296356</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">A-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">Si</SimpleData>
+            <SimpleData name="Lote">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Fecha de M">A</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-02</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">5.490520833336632</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.6038591465756,-26.2419988572892,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.6028592900317,-26.2420973310519,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Localidad_TAVA__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_TAVA__.schema">
+            <SimpleData name="Cédula">6297590.00000000000</SimpleData>
+            <SimpleData name="cedula">6297590</SimpleData>
+            <SimpleData name="N">6297590</SimpleData>
+            <SimpleData name="Nombres y">331</SimpleData>
+            <SimpleData name="Sexo">ARACELIA  SANABRIA RUIZ DIAZ</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CAAZAPA</SimpleData>
+            <SimpleData name="Localidad">TAVAÍ</SimpleData>
+            <SimpleData name="Teléfono">ÑU KAÑY</SimpleData>
+            <SimpleData name="Vivienda_L">982151158</SimpleData>
+            <SimpleData name="Vivienda_1">-26.2399914</SimpleData>
+            <SimpleData name="Superficie">-55.581654999999998</SimpleData>
+            <SimpleData name="Situaci�">0.7</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-26.24168078</SimpleData>
+            <SimpleData name="Grupo Impl">-55.58398029</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">A-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Fecha de M">A</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-02</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">5.19719907407125</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.5839802866036,-26.2416807774762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Localidad_TAVA__.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_TAVA__.schema">
+            <SimpleData name="Cédula">9115513.00000000000</SimpleData>
+            <SimpleData name="cedula">9115513</SimpleData>
+            <SimpleData name="N">9115513</SimpleData>
+            <SimpleData name="Nombres y">350</SimpleData>
+            <SimpleData name="Sexo">BRUNO DANIEL MENDIETA SARATE</SimpleData>
+            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CAAZAPA</SimpleData>
+            <SimpleData name="Localidad">TAVAÍ</SimpleData>
+            <SimpleData name="Teléfono">ÑU KAÑY</SimpleData>
+            <SimpleData name="Vivienda_L">982035517</SimpleData>
+            <SimpleData name="Vivienda_1">-26.2532783</SimpleData>
+            <SimpleData name="Superficie">-55.572903300000000</SimpleData>
+            <SimpleData name="Situaci�">0.7</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-26.25360633</SimpleData>
+            <SimpleData name="Grupo Impl">-55.57341203</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">A-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">Si</SimpleData>
+            <SimpleData name="Lote">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Fecha de M">A</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-02</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">5.299803240741312</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.5735903449626,-26.2535686532541,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.5730055183114,-26.2536922399003,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Localidad_TAVA__.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_TAVA__.schema">
+            <SimpleData name="Cédula">6585410.00000000000</SimpleData>
+            <SimpleData name="cedula">6585410</SimpleData>
+            <SimpleData name="N">6585410</SimpleData>
+            <SimpleData name="Nombres y">332</SimpleData>
+            <SimpleData name="Sexo">SONIA  LOMBARDO AREVALOS</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Campesina</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CAAZAPA</SimpleData>
+            <SimpleData name="Localidad">TAVAÍ</SimpleData>
+            <SimpleData name="Teléfono">ÑU KAÑY</SimpleData>
+            <SimpleData name="Vivienda_L">984901766</SimpleData>
+            <SimpleData name="Vivienda_1">-26.2405602</SimpleData>
+            <SimpleData name="Superficie">-55.569493000000001</SimpleData>
+            <SimpleData name="Situaci�">0.7</SimpleData>
+            <SimpleData name="Plantado">Polígono</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-26.23739367</SimpleData>
+            <SimpleData name="Grupo Impl">-55.57013213</SimpleData>
+            <SimpleData name="Grupo de P">G2</SimpleData>
+            <SimpleData name="Jornales">A-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Fecha de M">A</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-03</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">4.469016203700448</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.570132132498,-26.2373936658407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

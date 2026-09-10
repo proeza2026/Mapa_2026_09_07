@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Localidad_HORQUETA.schema">
+      <SimpleField name="Cédula" type="float"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="float"/>
+      <SimpleField name="Nombres y" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio de" type="string"/>
+      <SimpleField name="Titular se" type="string"/>
+      <SimpleField name="Cédula Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="string"/>
+      <SimpleField name="Vivienda_1" type="string"/>
+      <SimpleField name="Superficie" type="float"/>
+      <SimpleField name="Situaci�" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="string"/>
+      <SimpleField name="Parcela_Lo" type="string"/>
+      <SimpleField name="Grupo Impl" type="string"/>
+      <SimpleField name="Grupo de P" type="string"/>
+      <SimpleField name="Jornales" type="string"/>
+      <SimpleField name="Monto" type="string"/>
+      <SimpleField name="ETAPA FAO" type="string"/>
+      <SimpleField name="Estado del" type="string"/>
+      <SimpleField name="Adjudicado" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Fecha de M" type="string"/>
+      <SimpleField name="% de prend" type="string"/>
+      <SimpleField name="Estado FAO" type="string"/>
+      <SimpleField name="Etapa de i" type="string"/>
+      <SimpleField name="Fecha visi" type="string"/>
+      <SimpleField name="Cumple sup" type="string"/>
+      <SimpleField name="Estado mon" type="string"/>
+      <SimpleField name="Situaci�_1" type="string"/>
+      <SimpleField name="Observaci�" type="string"/>
+      <SimpleField name="Dias trans" type="string"/>
+      <SimpleField name="Prioridad" type="string"/>
+    </Schema>
+    <Document id="Localidad_HORQUETA">
+      <name>Localidad_HORQUETA</name>
+      <Placemark id="Localidad_HORQUETA.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_HORQUETA.schema">
+            <SimpleData name="Cédula">7900312.00000000000</SimpleData>
+            <SimpleData name="cedula">7900312</SimpleData>
+            <SimpleData name="N">7900312</SimpleData>
+            <SimpleData name="Nombres y">372</SimpleData>
+            <SimpleData name="Sexo">RODRIGO GALEANO</SimpleData>
+            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">HORQUETA</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG PASO ITA</SimpleData>
+            <SimpleData name="Vivienda_L">976841633</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3994362</SimpleData>
+            <SimpleData name="Superficie">-56.851159699999997</SimpleData>
+            <SimpleData name="Situaci�">0.7</SimpleData>
+            <SimpleData name="Plantado">Polígono</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.40011749</SimpleData>
+            <SimpleData name="Grupo Impl">-56.85142566</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-03</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">4.46603009258979</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.8514256586725,-23.4001174904425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Localidad_HORQUETA.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_HORQUETA.schema">
+            <SimpleData name="Cédula">6027481.00000000000</SimpleData>
+            <SimpleData name="cedula">6027481</SimpleData>
+            <SimpleData name="N">6027481</SimpleData>
+            <SimpleData name="Nombres y">267</SimpleData>
+            <SimpleData name="Sexo">CESAR SEBASTIAN ARISTE</SimpleData>
+            <SimpleData name="Cambio de">Hombre</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 5</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">HORQUETA</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG PASO ITA</SimpleData>
+            <SimpleData name="Vivienda_L">0976431195</SimpleData>
+            <SimpleData name="Vivienda_1">-23.3972784</SimpleData>
+            <SimpleData name="Superficie">-56.849495300000001</SimpleData>
+            <SimpleData name="Situaci�">0.7</SimpleData>
+            <SimpleData name="Plantado">Polígono</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.39777048</SimpleData>
+            <SimpleData name="Grupo Impl">-56.84977728</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">SI</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Verificar posible desercion</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-08-27</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">Participante alambro la parcela y metio animales. Utiliza como piquete para ganado vacuno su parcela;Alambro y utiliza como piquete para ganado su parcela</SimpleData>
+            <SimpleData name="Prioridad">11.349344571761321</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.8497772824756,-23.3977704805288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Localidad_HORQUETA.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Localidad_HORQUETA.schema">
+            <SimpleData name="Cédula">6616006.00000000000</SimpleData>
+            <SimpleData name="cedula">6616006</SimpleData>
+            <SimpleData name="N">6616006</SimpleData>
+            <SimpleData name="Nombres y">373</SimpleData>
+            <SimpleData name="Sexo">MARIA CRISTINA  ARCE GARCETE</SimpleData>
+            <SimpleData name="Cambio de">Mujer</SimpleData>
+            <SimpleData name="Titular se">NO</SimpleData>
+            <SimpleData name="Cédula Ti">NO</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">NO</SimpleData>
+            <SimpleData name="Modelo imp">Indígena</SimpleData>
+            <SimpleData name="Departamen">Modelo 1</SimpleData>
+            <SimpleData name="Distrito">CONCEPCION</SimpleData>
+            <SimpleData name="Localidad">HORQUETA</SimpleData>
+            <SimpleData name="Teléfono">COM INDIG PASO ITA</SimpleData>
+            <SimpleData name="Vivienda_L">976811620</SimpleData>
+            <SimpleData name="Vivienda_1">-23.4086316</SimpleData>
+            <SimpleData name="Superficie">-56.855364399999999</SimpleData>
+            <SimpleData name="Situaci�">0.8</SimpleData>
+            <SimpleData name="Plantado">Parametro</SimpleData>
+            <SimpleData name="Parcela_La">Si</SimpleData>
+            <SimpleData name="Parcela_Lo">-23.40899964</SimpleData>
+            <SimpleData name="Grupo Impl">-56.86132882</SimpleData>
+            <SimpleData name="Grupo de P">G3</SimpleData>
+            <SimpleData name="Jornales">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Monto">0</SimpleData>
+            <SimpleData name="ETAPA FAO">0</SimpleData>
+            <SimpleData name="Estado del">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Adjudicado">Activo</SimpleData>
+            <SimpleData name="Empresa">Si</SimpleData>
+            <SimpleData name="Lote">Emilio Solís Grance</SimpleData>
+            <SimpleData name="Fecha de M">J</SimpleData>
+            <SimpleData name="% de prend">-</SimpleData>
+            <SimpleData name="Estado FAO">-</SimpleData>
+            <SimpleData name="Etapa de i">Monitorear</SimpleData>
+            <SimpleData name="Fecha visi">Mantenimiento Año 1.1</SimpleData>
+            <SimpleData name="Cumple sup">2026-09-03</SimpleData>
+            <SimpleData name="Estado mon">Si</SimpleData>
+            <SimpleData name="Situaci�_1">-</SimpleData>
+            <SimpleData name="Observaci�">-</SimpleData>
+            <SimpleData name="Dias trans">-</SimpleData>
+            <SimpleData name="Prioridad">4.465046296303626</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -56.8613288240253,-23.4089996363546,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.8550441026408,-23.4092590511506,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
